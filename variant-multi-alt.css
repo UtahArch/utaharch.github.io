@@ -1,0 +1,97 @@
+/*
+Original design: Variant Multi (alt) (v1.0 - Dec 22th, 2010) - A free xhtml/css website template by Andreas Viklund.
+For more information, see http://andreasviklund.com/templates/variant-multi/
+*/
+
+*{margin:0;padding:0;}
+/*body{background:#000 url(bodybg.gif) top left repeat-x;color:#444;font:76% Verdana,Helvetica,Tahoma,sans-serif;}*/
+body{background:#fff top center repeat-x;color:#444;font:80% Verdana,Helvetica,Tahoma,sans-serif;}
+p{line-height:1.7em;margin-bottom:15px; }
+a{color:#c03939;}
+a:hover{color:#333;}
+h1{color:#950606;font-size:2.5em;}
+h2{color:#950606;font-size:2.8em;font-weight:400;margin:0 0 10px 0; }
+h3{color:#950606;font-size:1.7em;font-weight:400;margin:0 0 8px; }
+h1,h2,h3{font-family:Georgia,Times New Roman,serif;}
+ul,ol,dl{margin:0 0 20px 20px; padding:0;}
+li{padding-bottom:5px;}
+
+#containerfull,#container980,#container760,#container600{margin:0 auto;padding:0;overflow:hidden;}
+#containerfull{width:100%;}
+#container980{width:980px;}
+#container760{width:760px;}
+#container600{width:600px;}
+
+#header{margin:0 auto;padding:10px 0 0 10px;}
+#header h1{margin:0;padding:20px 0 10px;}
+#header h1 a{color:#950606;font-size:1.8em;font-weight:400;text-decoration:none;}
+#header h2{color:#950606;padding:0 0 10px 10px;margin:10;font-size:1.5em;font-weight:400; }
+
+#headersections{display:block;margin:0 auto;}
+#headersections .half{float:left;margin:0 3% 0 0;width:47%;}
+#headersections .lasthalf{float:left;margin:0;width:50%;}
+#headersections .quarter{float:left;margin:0 3% 0 0;width:22%;}
+#headersections .lastquarter{float:left;width:25%;margin:0 0 0 0;}
+
+#menu{height:29px;}
+#menu ul{float:left;height:40px;list-style:none;margin:20;padding:0 25px 0 0;}
+#menu ul li{background-color:#950606;display:block;float:left;margin:0 0 0 5px;padding:0;}
+#menu ul li a{background-color:#950606;color:#e0e0e0;display:block;font-size:1.2em;padding:5px 12px;text-decoration:none;font-weight:600}
+#menu ul li a:hover{color:#a4a4a4;}
+#menu ul li a.current{background-color:#bababa;color:#333;border-bottom:0 solid #eee;font-weight:600}
+
+#feature{background:#bababa top left repeat-x;color:#444;padding:25px 25px 5px;border-top:0px solid #ccc;border-bottom:1px solid #ccc;}
+#feature h2{color:#950606;font-size:1.2em;line-height:1em;}
+#feature p{font-size:1em;margin:0 0 15px 0; line-height:1.5em;}
+
+#main{clear:both;margin:0;background-color:#fff;padding:25px 25px 5px;}
+#content{width:72%;}
+#content p{font-size:1.05em;margin:0 0 15px 0; line-height:1.5em;}
+
+#sidebar{float:right;width:25%;}
+#sidebar .sidebarbox {margin:0 0 25px 0;background-color:#fff; border:1px solid #950606;}
+#sidebar p{margin:10px 0 10px 10px;}
+#sidebar ul{list-style:none;margin:10px 0 10px 10px;padding:0;}
+#sidebar ul li{margin:0 0 5px 0;}
+#sidebar ul li a{color:#950606;font-weight:400;}
+#sidebar ul.sidemenu {margin:0;}
+#sidebar ul.sidemenu li{display:inline;padding:0;margin:0;}
+#sidebar ul.sidemenu li a{display:block;padding:7px 5px 6px 10px;font-size:1em; font-weight:400;text-decoration:none;border-bottom:1px solid #ddd;}
+#sidebar ul.sidemenu li a:hover{color:#333;border-bottom:1px solid #ccc;}
+#sidebar ul.sidemenu ul{margin:0;padding:0;font-size:0.9em;border-bottom:1px solid #ccc;}
+#sidebar ul.sidemenu ul li a{padding:5px 5px 5px 25px;border:0;font-weight:400;}
+#sidebar ul.sidemenu ul li a:hover{border:0;}
+#sidebar ul li a:hover{color:#333;}
+#sidebar h2{background-color:#950606;color:#fff;font-size:1.5em;margin:0 0 0 0;padding:10px;}
+#sidebar h3{font-size:1.4em; padding:10px 10px 0 10px;}
+
+#footer{background:#bababa top left repeat-x;margin:0 auto;padding:20px 25px 10px;border-top:1px solid #ccc;}
+#footer h2{color:#c03939;font-weight:400;font-size:1.5em;}
+#footer p{color:#555;margin:0 0 10px 0;padding:0;}
+#footer ul{border-top:1px solid #aaa;list-style:none;margin:0 0 15px 0;padding:0;}
+#footer ul li{padding:0;margin:0;}
+#footer ul li a{border-bottom:1px solid #aaa;color:#333;display:block;padding:7px 10px;text-decoration:none;}
+#footer ul li a:hover{background-color:#eee;}
+
+#footersections{display:block;margin:0 auto;}
+#footersections .half{float:left;margin:0 3% 0 0;width:47%;}
+#footersections .lasthalf{float:left;margin:0;width:50%;}
+#footersections .quarter{float:left;margin:0 3% 0 0;width:22%;}
+#footersections .lastquarter{float:left;width:25%;margin:0;}
+
+#credits{color:#aaa;padding:15px 25px;}
+#credits p{text-align:left;font-size:1.2em;margin:0;padding:0;line-height:1.4em;}
+#credits a{color:#aaa;font-weight:400;}
+
+.centeredImage
+    {
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
+    }
+
+.left{float:left;width:49%;}
+.right{float:right;width:48%;}
+.clear{clear:both;visibility:hidden;}
+.small{font-size:0.8em;}
