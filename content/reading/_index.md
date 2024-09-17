@@ -46,9 +46,20 @@ links to the paper(s).</p>
     <td>Aug 30</td>
     <td>Soham Bagchi</td>
     <td><a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673110">Harnessing Integrated CPU-GPU System Memory for HPC: a first look into Grace Hopper</td>
-    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3673038.3673110" target="Here"></a></td>
 </tr>
 
+
+<tr>
+    <td>Sept 13</td>
+    <td>Wei Siew Liew</td>
+    <td><a href="https://rsim.cs.illinois.edu/Pubs/24-PACT-Mozart.pdf">Shared Memory Accelerators</td>
+</tr>
+
+<tr>
+    <td>Sept 20</td>
+    <td>Neeraj Prabhu</td>
+    <td><a href="https://eprint.iacr.org/2016/260.pdf">ZPK: Groth16</td>
+</tr>
 
 </table>
 
