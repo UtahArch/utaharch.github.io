@@ -61,6 +61,31 @@ links to the paper(s).</p>
     <td><a href="https://eprint.iacr.org/2016/260.pdf">ZPK: Groth16</td>
 </tr>
 
+<tr>
+    <td>Sept 27</td>
+    <td>Pratyush Nandi</td>
+    <td><a href="https://dl.acm.org/doi/pdf/10.1145/3620665.3640422">AttAcc! Unleashing the Power of PIM for Batched
+Transformer-based Generative Model Inference</td>
+</tr>
+
+<tr>
+    <td>Oct 4</td>
+    <td>Shreyas Singh</td>
+    <td><a href="https://www.computer.org/csdl/proceedings-article/isca/2024/265800a382/1Z3pBAsPRnO">Enabling Efficient Large Recommendation Model Training with Near CXL Memory Processing</td>
+</tr>
+
+<tr>
+    <td>Oct 18</td>
+    <td>Dimitrios Stavrakakis</td>
+    <td><a>Guest Lecture</td>
+</tr>
+
+<tr>
+    <td>Oct 25</td>
+    <td>Neeraj Prabhu</td>
+    <td><a href="https://ieeexplore.ieee.org/document/9499783">PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture</td>
+</tr>
+
 </table>
 
 
