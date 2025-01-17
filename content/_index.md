@@ -8,6 +8,9 @@ description: "The Utah Arch research group is involved in Computer Architecture 
 The Utah Arch research group is involved in Computer Architecture and VLSI Research at the School of Computing, University of Utah. Led by Dr. Rajeev Balasubramonian, Dr. Erik Brunvand, and Dr. Vijay Nagarajan the group explores many aspects of modern and future computing systems. The group's current research focuses on memory systems, machine learning accelerators, neuromorphic architectures, hardware ray-tracing, and memory security. 
 
 ## Recent Publications
+<p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Mode</a> - PACT 24
+<p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">Pathfinder: Practical Real-Time Learning for Data Prefetching</a> - ASPLOS 2024
+<p> <a href="https://users.cs.utah.edu/~rajeev/pubs/hyena24.pdf">Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference</a> - S&P 2024
 <p> <a href="https://sarabjeetsingh007.github.io/files/micro23.pdf"> XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays</a> - IEEE MICRO 2023.
 <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/hpca22.pdf"> CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration
 </a> - HPCA 2022.

@@ -23,7 +23,7 @@ title: "People"
     <li> <a href="">Shreyas Singh</a> </li>
     <li> <a href="https://useraz.github.io/">An Qi Zhang</a> </li>
     <li> <a href="http://www.sohambagchi.com/">Soham Bagchi</a> </li>
-    <li> <a href="https://www.jarrettminton.com/">Jarrett Minton</a> </li>
+    <li> <a href="https://www.jarr.sh/">Jarrett Minton</a> </li>
     <li> <a href="">Wei Siew Liew </a></li>
     <li> <a href="">Pratyush Nandi</a></li>
     <li> <a href="">Neeraj Prabhu</a></li>

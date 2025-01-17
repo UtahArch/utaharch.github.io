@@ -86,6 +86,19 @@ Transformer-based Generative Model Inference</td>
     <td><a href="https://ieeexplore.ieee.org/document/9499783">PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture</td>
 </tr>
 
+<tr>
+    <td>Nov 8</td>
+    <td>Edison Yang</td>
+    <td><a href="https://ieeexplore.ieee.org/abstract/document/10711312">Low-Power AI Accelerators</td>
+</tr>
+
+<tr>
+    <td>Nov 15</td>
+    <td>James McMahon</td>
+    <td><a href="https://arxiv.org/pdf/2409.08141">Rethinking Programmed I/O for Fast Devices, Cheap Cores, and Coherent Interconnects</td>
+</tr>
+
+
 </table>
 
 
