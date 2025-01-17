@@ -36,9 +36,9 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 
 <h3> Conferences, Journals, Workshops, Posters and Technical Reports</h3>
 <h3> 2024 </h3>
-<p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Mode</a> - PACT 24
-<p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">Pathfinder: Practical Real-Time Learning for Data Prefetching</a> - ASPLOS 2024
-<p> <a href="https://users.cs.utah.edu/~rajeev/pubs/hyena24.pdf">Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference</a> - S&P 2024
+<li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Mode</a> - PACT 24 </i> 
+<li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">Pathfinder: Practical Real-Time Learning for Data Prefetching</a> - ASPLOS 2024 </i> 
+<li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/hyena24.pdf">Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference</a> - S&P 2024 </i> 
 <h3> 2022 </h3>
 <ul>
 <li> <a href="https://users.cs.utah.edu/~rajeev/pubs/hpca22.pdf"> XCRYPT: Accelerating Lattice
