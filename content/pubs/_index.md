@@ -36,7 +36,9 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 
 <h3> Conferences, Journals, Workshops, Posters and Technical Reports</h3>
 <h3> 2025 </h3>
+<ul>
 <li> <p> <a href="https://dl.acm.org/doi/pdf/10.1145/3676641.3715997">FlexProf: Flexible, Side-Channel-Free Memory Access</a> Jarrett Minton, Rajeev Balasubramonian, ASPLOS 2025 </i>
+</ul>
 <h3> 2024 </h3>
 <ul>
 <li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Mode</a> An Qi Zhang, Andres Goens, Nicolai Oswald, Tobias Grosser, Dan Sorin, Vijay Nagarajan - PACT 24 </i> 
