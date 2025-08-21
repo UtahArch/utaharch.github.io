@@ -1,5 +1,5 @@
 ---
-title: "CS 7937: Architecture & VLSI Seminar"
+title: "Past Session: Fall 2024"
 ShowBreadCrumbs: false
 ---
 

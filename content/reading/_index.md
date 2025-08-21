@@ -123,7 +123,3 @@ mention the title and the links to the paper(s).</p>
 <a href="https://hpca-conf.org/">HPCA</a> |
 <a href="https://iscaconf.org/">ISCA</a> |
 <a href="https://asplos-conference.org/">ASPLOS</a> 
-
-
-<h3> Past Sessions </h2>
-<a href="_indexfall2024.md">Fall 2024</a>
