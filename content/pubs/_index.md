@@ -41,7 +41,7 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 </ul>
 <h3> 2024 </h3>
 <ul>
-<li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Mode</a> An Qi Zhang, Andres Goens, Nicolai Oswald, Tobias Grosser, Dan Sorin, Vijay Nagarajan - PACT 24 </i> 
+<li> <p> <a href="https://dl.acm.org/doi/10.1145/3656019.3676889">PipeGen: Automated Transformation of a Single-Core Pipeline into a Multicore Pipeline for a Given Memory Consistency Mode</a> An Qi Zhang, Andres Goens, Nicolai Oswald, Tobias Grosser, Dan Sorin, Vijay Nagarajan - PACT 24 </i> 
 <li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/asplos24.pdf">Pathfinder: Practical Real-Time Learning for Data Prefetching</a> Lin Jia, James Patrick McMahon, Sumanth Gudaparthi, Shreyas Singh, Rajeev Balasubramonian, ASPLOS 2024 </i> 
 <li> <p> <a href="https://users.cs.utah.edu/~rajeev/pubs/hyena24.pdf">Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference</a>Sarabjeet Singh, Shreyas Singh, Sumanth Gudaparthi, Xiong Fan, Rajeev Balasubramonian, S&P 2024 </i> 
 </ul>
