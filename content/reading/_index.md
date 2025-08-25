@@ -112,7 +112,7 @@ mention the title and the links to the paper(s).</p>
 
 
 
-<h3> Suggested Conferences </h2>
+<h3> Suggested Conferences </h3>
 <a href="https://microarch.org/">MICRO</a> |
 <a href="https://hpca-conf.org/">HPCA</a> |
 <a href="https://iscaconf.org/">ISCA</a> |
