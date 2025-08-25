@@ -44,13 +44,13 @@ mention the title and the links to the paper(s).</p>
 
 <tr>
     <td>Sept 05</td>
-    <td></td>
-    <td></td>
+    <td>Neeraj Prabhu</td>
+    <td><a href="https://dl.acm.org/doi/10.1145/3695053.3731021">Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs</a></td>
 </tr>
 
 <tr>
     <td>Sept 12</td>
-    <td></td>
+    <td>Shreyas Singh</td>
     <td></td>
 </tr>
 
@@ -68,7 +68,7 @@ mention the title and the links to the paper(s).</p>
 
 <tr>
     <td>Oct 03</td>
-    <td></td>
+    <td>Soham Bagchi</td>
     <td></td>
 </tr>
 
