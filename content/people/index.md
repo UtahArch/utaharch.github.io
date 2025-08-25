@@ -25,7 +25,7 @@ title: "People"
     <li> <a href="http://www.sohambagchi.com/">Soham Bagchi</a> </li>
     <li> <a href="https://www.jarr.sh/">Jarrett Minton</a> </li>
     <li> <a href="">Wei Siew Liew </a></li>
-    <li> <a href="">Pratyush Nandi</a></li>
+    <li> <a href="https://pratyush48.github.io/">Pratyush Nandi</a></li>
     <li> <a href="https://neerajsprabhu.github.io">Neeraj Prabhu</a></li>
 </ul>
 
