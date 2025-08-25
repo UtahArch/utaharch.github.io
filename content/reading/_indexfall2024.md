@@ -1,5 +1,6 @@
 ---
 title: "Past Session: Fall 2024"
+hideMeta: true
 ShowBreadCrumbs: false
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "CS 7937: Architecture & VLSI Seminar"
+hideMeta: true
 ShowBreadCrumbs: false
 ---
 
@@ -34,17 +35,10 @@ mention the title and the links to the paper(s).</p>
     <th>Paper(s)/Agenda</th>
 </tr>
 
-
-<tr>
-    <td>Aug 22</td>
-    <td></td>
-    <td></td>
-</tr>
-
 <tr>
     <td>Aug 29</td>
-    <td></td>
-    <td></td>
+    <td>Wei Siew Liew</td>
+    <td><a href="https://dl.acm.org/doi/full/10.1145/3695053.3731074">CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering</a></td>
 </tr>
 
 
