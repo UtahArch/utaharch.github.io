@@ -26,7 +26,7 @@ title: "People"
     <li> <a href="https://www.jarr.sh/">Jarrett Minton</a> </li>
     <li> <a href="">Wei Siew Liew </a></li>
     <li> <a href="">Pratyush Nandi</a></li>
-    <li> <a href="">Neeraj Prabhu</a></li>
+    <li> <a href="https://neerajsprabhu.github.io">Neeraj Prabhu</a></li>
 </ul>
 
 <h3> Recent Alumni </h3>
