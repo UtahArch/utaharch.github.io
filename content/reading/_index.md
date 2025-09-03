@@ -41,13 +41,6 @@ mention the title and the links to the paper(s).</p>
     <td><a href="https://dl.acm.org/doi/full/10.1145/3695053.3731074">CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering</a></td>
 </tr>
 
-
-<tr>
-    <td>Sept 05</td>
-    <td>Neeraj Prabhu</td>
-    <td><a href="https://dl.acm.org/doi/10.1145/3695053.3731021">Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs</a></td>
-</tr>
-
 <tr>
     <td>Sept 12</td>
     <td>Shreyas Singh</td>
@@ -56,13 +49,13 @@ mention the title and the links to the paper(s).</p>
 
 <tr>
     <td>Sept 19</td>
-    <td></td>
+    <td>Pratyush Nandi</td>
     <td></td>
 </tr>
 
 <tr>
     <td>Sept 26</td>
-    <td></td>
+    <td>Neeraj Prabhu</td>
     <td></td>
 </tr>
 
