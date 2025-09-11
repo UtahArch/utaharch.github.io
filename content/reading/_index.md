@@ -44,7 +44,7 @@ mention the title and the links to the paper(s).</p>
 <tr>
     <td>Sept 12</td>
     <td>Shreyas Singh</td>
-    <td></td>
+    <td>Current LLM Hardware Research Landscape</td>
 </tr>
 
 <tr>
