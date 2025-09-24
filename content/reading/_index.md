@@ -50,13 +50,13 @@ mention the title and the links to the paper(s).</p>
 <tr>
     <td>Sept 19</td>
     <td>Pratyush Nandi</td>
-    <td></td>
+    <td><a href="https://dl.acm.org/doi/10.1145/3695053.3731089">HeterRAG: Heterogeneous Processing-in-Memory Acceleration for Retrieval-augmented Generation</a></td>
 </tr>
 
 <tr>
     <td>Sept 26</td>
     <td>Neeraj Prabhu</td>
-    <td></td>
+    <td><a href="https://ieeexplore.ieee.org/document/9935044">Sequestered Encryption: A Hardware Technique for Comprehensive Data Privacy</a></td>
 </tr>
 
 <tr>
