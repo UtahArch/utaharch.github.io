@@ -61,8 +61,8 @@ mention the title and the links to the paper(s).</p>
 
 <tr>
     <td>Oct 03</td>
-    <td>Soham Bagchi</td>
-    <td></td>
+    <td>Jarrett Minton</td>
+    <td>Recent Side-Channel Research</td>
 </tr>
 
 <tr>
