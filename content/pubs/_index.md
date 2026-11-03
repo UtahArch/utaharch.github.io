@@ -44,12 +44,12 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 <ul>
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/pldi26.pdf">A Formally Verified Foundation for Compositional Heterogeneous Coherence</a> An Qi Zhang, Andrés Goens, Dan Sorin, Vijay Nagarajan, PLDI 2026 </i>
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/ismm26.pdf">Consistency and Coherence of the NVIDIA Grace-Hopper Superchip</a> Soham Bagchi, Sanya Srivastava, Reese Levine, Tyler Sorensen, Ryan Stutsman, Vijay Nagarajan, ISMM 2026 </i>
-<li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/asplos26.pdf">Efficient Remote Memory Ordering for Non-Coherent Interconnects</a> Wei Siew Liew, M. A. Rahaman, Adarsh Patil, Ryan Stutsman, Vijay Nagarajan, ASPLOS 2026 </i>
+<li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/asplos26.pdf">Efficient Remote Memory Ordering for Non-Coherent Interconnects</a> Wei Siew Liew, Md Ashfaqur Rahaman, Adarsh Patil, Ryan Stutsman, Vijay Nagarajan, ASPLOS 2026 </i>
 </ul>
 <h3> 2025 </h3>
 <ul>
 <li> <p> <a href="https://dl.acm.org/doi/pdf/10.1145/3676641.3715997">FlexProf: Flexible, Side-Channel-Free Memory Access</a> Jarrett Minton, Rajeev Balasubramonian, ASPLOS 2025 </i>
-<li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/hotos25.pdf">Stop Taking the Scenic Route: the Shortest Distance Between the CPU and the NIC is MMIO</a> Wei Siew Liew, M. A. Rahaman, James McMahon, Ryan Stutsman, Vijay Nagarajan, HotOS 2025 </i>
+<li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/hotos25.pdf">Stop Taking the Scenic Route: the Shortest Distance Between the CPU and the NIC is MMIO</a> Wei Siew Liew, Md Ashfaqur Rahaman, James McMahon, Ryan Stutsman, Vijay Nagarajan, HotOS 2025 </i>
 </ul>
 <h3> 2024 </h3>
 <ul>
