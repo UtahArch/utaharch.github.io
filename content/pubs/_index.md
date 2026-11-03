@@ -45,7 +45,6 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/pldi26.pdf">A Formally Verified Foundation for Compositional Heterogeneous Coherence</a> An Qi Zhang, Andrés Goens, Dan Sorin, Vijay Nagarajan, PLDI 2026 </i>
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/ismm26.pdf">Consistency and Coherence of the NVIDIA Grace-Hopper Superchip</a> Soham Bagchi, Sanya Srivastava, Reese Levine, Tyler Sorensen, Ryan Stutsman, Vijay Nagarajan, ISMM 2026 </i>
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/asplos26.pdf">Efficient Remote Memory Ordering for Non-Coherent Interconnects</a> Wei Siew Liew, M. A. Rahaman, Adarsh Patil, Ryan Stutsman, Vijay Nagarajan, ASPLOS 2026 </i>
-<li> <p> Is Consciousness the Brain's Consistency Model? Vijay Nagarajan, ASPLOS 2026 (Wild and Crazy Ideas) </i>
 </ul>
 <h3> 2025 </h3>
 <ul>
