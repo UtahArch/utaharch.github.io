@@ -21,8 +21,6 @@ title: "People"
 <ul>
     <li> <a href="">Lin Jia</a> </li>
     <li> <a href="">Shreyas Singh</a> </li>
-    <li> <a href="https://useraz.github.io/">An Qi Zhang</a> </li>
-    <li> <a href="http://www.sohambagchi.com/">Soham Bagchi</a> </li>
     <li> <a href="https://www.jarr.sh/">Jarrett Minton</a> </li>
     <li> <a href="">Wei Siew Liew </a></li>
     <li> <a href="https://pratyush48.github.io/">Pratyush Nandi</a></li>
@@ -31,6 +29,8 @@ title: "People"
 
 <h3> Recent Alumni </h3>
 <ul>
+    <li> <a href="https://useraz.github.io/">An Qi Zhang</a> (PhD 2026) </li>
+    <li> <a href="http://www.sohambagchi.com/">Soham Bagchi</a> </li>
     <li> <a href="https://ananthkp.github.io/">Ananth Krishna Prasad</a>  (PhD 2024) </li>
     <li> <a href="http://www.cs.utah.edu/~sarab/">Sarabjeet Singh </a> (PhD 2024)</li>
     <li> <a href="http://www.cs.utah.edu/~sgudapar/home">Sumanth Gudaparthi</a> (PhD 2022) </li>
