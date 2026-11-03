@@ -37,7 +37,7 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 <h3> Conferences, Journals, Workshops, Posters and Technical Reports</h3>
 <h3> 2027 </h3>
 <ul>
-<li> <p> SAI-SAP: Prefetching and Address Mapping For Side-Channel Free Memory Controllers. Jarrett Minton, Neeraj Prabhu, Suhas Vittal, Pratik Soni, Rajeev Balasubramonian, HPCA 2027 </i>
+<li> <p> <a href="https://utaharch.github.io/">SAI-SAP: Prefetching and Address Mapping For Side-Channel Free Memory Controllers</a> Jarrett Minton, Neeraj Prabhu, Suhas Vittal, Pratik Soni, Rajeev Balasubramonian, HPCA 2027 </i>
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/asplos27b.pdf">Formalizing the User-Kernel Shared-Memory Boundary: The C/LKMM Compound Model</a> Hastin Kapoor, Soham Bagchi, An Qi Zhang, Soham Chakraborty, Marco Elver, Andrés Goens, Susmit Sarkar, Ryan Stutsman, Vijay Nagarajan, ASPLOS 2027 </i>
 </ul>
 <h3> 2026 </h3>
@@ -49,9 +49,7 @@ Rajeev Balasubramonian, Timothy Pinkston, <i> Encyclopedia of Parallel Computing
 <h3> 2025 </h3>
 <ul>
 <li> <p> <a href="https://dl.acm.org/doi/pdf/10.1145/3676641.3715997">FlexProf: Flexible, Side-Channel-Free Memory Access</a> Jarrett Minton, Rajeev Balasubramonian, ASPLOS 2025 </i>
-<li> <p> The LAW Theorem: Local Reads and Linearizable Asynchronous Replication. Emmanouil Giortamis, Antonios Katsarakis, Vasilis Gavrielatos, Pramod Bhatotia, Aleksandar Dragojevic, Boris Grot, Vijay Nagarajan, Panagiota Fatourou, VLDB 2025 </i>
 <li> <p> <a href="https://users.cs.utah.edu/~vijay/papers/hotos25.pdf">Stop Taking the Scenic Route: the Shortest Distance Between the CPU and the NIC is MMIO</a> Wei Siew Liew, M. A. Rahaman, James McMahon, Ryan Stutsman, Vijay Nagarajan, HotOS 2025 </i>
-<li> <p> <a href="https://openproceedings.org/2025/conf/edbt/paper-154.pdf">Fast, Highly Available, and Recoverable Transactions on Disaggregated Data Stores</a> Mahendra Dananjaya, Vasilis Gavrielatos, Antonios Katsarakis, Nikos Ntarmos, Vijay Nagarajan, EDBT 2025 </i>
 </ul>
 <h3> 2024 </h3>
 <ul>
